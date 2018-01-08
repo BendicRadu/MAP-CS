@@ -1,0 +1,107 @@
+﻿Stack: 
+openFile(a, "C:\Users\Radu\documents\visual studio 2015\Projects\MAP\MAP\test.txt") ; readFile(a, v) ; readFile(a, v) ; print(v)
+
+Sym Table: 
+
+File Table: 
+
+Output: 
+
+
+
+Stack: 
+openFile(a, "C:\Users\Radu\documents\visual studio 2015\Projects\MAP\MAP\test.txt")
+readFile(a, v) ; readFile(a, v) ; print(v)
+
+Sym Table: 
+
+File Table: 
+
+Output: 
+
+
+
+Stack: 
+readFile(a, v) ; readFile(a, v) ; print(v)
+
+Sym Table: 
+a -> 2
+
+File Table: 
+2 -> C:\Users\Radu\documents\visual studio 2015\Projects\MAP\MAP\test.txt
+
+Output: 
+
+
+
+Stack: 
+readFile(a, v)
+readFile(a, v) ; print(v)
+
+Sym Table: 
+a -> 2
+
+File Table: 
+2 -> C:\Users\Radu\documents\visual studio 2015\Projects\MAP\MAP\test.txt
+
+Output: 
+
+
+
+Stack: 
+readFile(a, v) ; print(v)
+
+Sym Table: 
+a -> 2
+v -> 10
+
+File Table: 
+2 -> C:\Users\Radu\documents\visual studio 2015\Projects\MAP\MAP\test.txt
+
+Output: 
+
+
+
+Stack: 
+readFile(a, v)
+print(v)
+
+Sym Table: 
+a -> 2
+v -> 10
+
+File Table: 
+2 -> C:\Users\Radu\documents\visual studio 2015\Projects\MAP\MAP\test.txt
+
+Output: 
+
+
+
+Stack: 
+print(v)
+
+Sym Table: 
+a -> 2
+v -> 20
+
+File Table: 
+2 -> C:\Users\Radu\documents\visual studio 2015\Projects\MAP\MAP\test.txt
+
+Output: 
+
+
+
+Stack: 
+
+Sym Table: 
+a -> 2
+v -> 20
+
+File Table: 
+2 -> C:\Users\Radu\documents\visual studio 2015\Projects\MAP\MAP\test.txt
+
+Output: 
+20
+
+
+

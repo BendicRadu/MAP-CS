@@ -1,0 +1,6 @@
+c:\users\radu\documents\visual studio 2015\Projects\MAP\MAP\bin\Debug\MAP.exe.config
+c:\users\radu\documents\visual studio 2015\Projects\MAP\MAP\bin\Debug\MAP.exe
+c:\users\radu\documents\visual studio 2015\Projects\MAP\MAP\bin\Debug\MAP.pdb
+c:\users\radu\documents\visual studio 2015\Projects\MAP\MAP\obj\Debug\MAP.csprojResolveAssemblyReference.cache
+c:\users\radu\documents\visual studio 2015\Projects\MAP\MAP\obj\Debug\MAP.exe
+c:\users\radu\documents\visual studio 2015\Projects\MAP\MAP\obj\Debug\MAP.pdb
